@@ -1,0 +1,5 @@
+' RecordType Bean
+' public class RecordType {
+'	protected String code;
+'	protected String description;
+'	}

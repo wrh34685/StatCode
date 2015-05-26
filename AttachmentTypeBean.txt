@@ -1,0 +1,7 @@
+' AttachmentType Bean
+' public class AttachmentType {
+'	 protected String filename;
+'	 protected String contentType;
+'	 protected String comments;
+'	 protected DataHandler content;
+'	}
